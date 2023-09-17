@@ -14,3 +14,16 @@ bun run index.ts
 
 This project was created using `bun init` in bun v1.0.0. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
 # Bun1.0
+
+initialize the repo
+
+```bash
+bun init
+```
+
+adding packages
+
+```bash
+bun add "packages"
+```
+
