@@ -5,7 +5,7 @@ const PORT = 3000;
     const app = createServer();
 
     app.listen(PORT, () => {
-        console.log(`Listning on ${PORT}`);
+        console.log(`Listning on http://localhost:${PORT}`);
         
     })
 })();
